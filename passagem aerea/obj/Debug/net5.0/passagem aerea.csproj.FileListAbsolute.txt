@@ -1,0 +1,16 @@
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\bin\Debug\net5.0\passagem aerea.exe
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\bin\Debug\net5.0\passagem aerea.deps.json
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\bin\Debug\net5.0\passagem aerea.runtimeconfig.json
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\bin\Debug\net5.0\passagem aerea.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\bin\Debug\net5.0\passagem aerea.dll
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\bin\Debug\net5.0\ref\passagem aerea.dll
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\bin\Debug\net5.0\passagem aerea.pdb
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\passagem aerea.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\passagem aerea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\passagem aerea.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\passagem aerea.AssemblyInfo.cs
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\passagem aerea.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\passagem aerea.dll
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\ref\passagem aerea.dll
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\passagem aerea.pdb
+C:\Users\user\Documents\backend_1\aula-11.05.ex\passagem aerea\obj\Debug\net5.0\passagem aerea.genruntimeconfig.cache
